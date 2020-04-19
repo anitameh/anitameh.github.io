@@ -20,17 +20,32 @@
 
 title: Anita Mehrotra
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Theme kudos to @artemsheludko.
+description: Personal site for Anita Mehrotra.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://anitameh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anitamehr0tra
-github_username:  anitameh
+
+# Contact links
+contact:
+ - name: Twitter
+ - link: https://twitter.com/anitamehr0tra
+ - name: Github
+ - link: https://github.com/anitameh
 
 # Build settings
 remote_theme: artemsheludko/derrick
+permalink: pretty
 plugins:
   - jekyll-feed
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
