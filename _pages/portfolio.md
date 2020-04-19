@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Writing"
-permalink: "/writing/"
+title: "Portfolio"
+permalink: "/portfolio/"
 ---
 
 Visualization
