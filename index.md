@@ -1,5 +1,5 @@
 layout: page
 title: "home"
-permalink: /
+permalink: /about
 
 Hello World, again.
