@@ -20,5 +20,5 @@ Machine Learning
 
 Industry Conferences & Speaking
 * Strata + HadoopWorld 2015
-* Grace Hopper Conference 2015, Speaker [url]
-* !!Con 2015, Co-speaker [url, video]
+* [Grace Hopper Conference 2015](https://ghc.anitab.org/wp-content/uploads/sites/2/2016/02/2015-ghc-program-addendum.pdf), [Speaker](https://ghc.anitab.org/community-blog-ghc/virality-at-buzzfeed-anita-mehrotra/)
+* !!Con 2015, Co-speaker: [url](http://bangbangcon.com/2015/speakers.html), [video](https://www.youtube.com/watch?v=6a7jJVvaxh0)
