@@ -5,15 +5,15 @@ permalink: "/portfolio/"
 ---
 
 Visualizations
-* International Spread of a BuzzFeed Post [code]
-* Treatment of Public K-12 Students [code]
-* K-12 Education and Mobility [code]
+* [International Spread of a BuzzFeed Post](https://github.com/anitameh/BFInternationalPosts)
+* [Treatment of Public K-12 Students](https://github.com/anitameh/rest-secl-k12education)
+* [K-12 Education and Mobility](https://github.com/anitameh/cs171-finalproject-mehrotra-anita)
 * [Anita's bl.ocks](https://bl.ocks.org/anitameh)
 
 Machine Learning
-* A Bayesian Treatment of Economic Mobility in the U.S.
+* [A Bayesian Treatment of Economic Mobility in the U.S.](http://amcapstone.wordpress.com/)
 * A Spatial Take on U.S. K-12 Education and Mobility
-* Astronomy Classification, Harvard-Chile Exchange 2014
+* [Astronomy Classification, Harvard-Chile Exchange 2014](http://bit.ly/1bvWmo6)
 * Sepsis in the ICU: Using Autoregressive Models to Save Lives
 * DJ, Please Don’t Stop the Music: Using Parallel SVD to Determine a Good Mix
 * [A Detailed Comparison of Symmetric Sparse Matrix Reordering Heuristics](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2014)%20A%20detailed%20comparison%20of%20symmetric%20sparse%20matrix%20reordering%20heuristics.pdf)
