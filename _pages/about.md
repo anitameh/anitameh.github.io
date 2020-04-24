@@ -12,9 +12,9 @@ Originally a California girl, Anita now lives in New York City. If you can't get
 
 In the News
 * Girls Who Code [2014 Annual Report](https://girlswhocode.com/2014report/)
-* The Life of a Data Scientist: CSE Alum Anita Mehrotra. [Harvard IACS News (Feb 2015)](https://iacs.seas.harvard.edu/news/life-data-scientist-cse-alum-anita-mehrotra)
-* 5 Lessons from BuzzFeed and Uber on Building Closed-Loop Growth Systems. [Percolate (Jan 2015)](https://blog.percolate.com/2015/01/5-lessons-buzzfeed-uber-building-closed-loop-growth-systems/)
-* Engineering Meets Art. [Harvard SEAS News (May 2014)](http://www.seas.harvard.edu/news/2014/05/engineering-meets-art)
+* *The Life of a Data Scientist: CSE Alum Anita Mehrotra*. Harvard IACS News (Feb 2015). [url](https://iacs.seas.harvard.edu/news/life-data-scientist-cse-alum-anita-mehrotra).
+* *5 Lessons from BuzzFeed and Uber on Building Closed-Loop Growth Systems*. Percolate (Jan 2015). [url](https://blog.percolate.com/2015/01/5-lessons-buzzfeed-uber-building-closed-loop-growth-systems/).
+* *Engineering Meets Art*. Harvard SEAS News (May 2014). [url](http://www.seas.harvard.edu/news/2014/05/engineering-meets-art).
 * Students Tackle Astronomically Big Data Challenges in Chile, Harvard IACS News (Mar 2014)
-* Estudiantes de la FCFM participan en workshop con U. de Harvard. [Facultad de Ciencias Fisicas y Matematicas | Universidad de Chile (Jan 2014)](http://ingenieria.uchile.cl/noticias/98323/estudiantes-de-la-fcfm-participan-en-workshop-con-u-de-harvard)
-* A Toolkit in 0s and 1s. [Harvard Magazine (Nov-Dec 2013)](http://harvardmagazine.com/2013/11/a-toolkit-in-0s-and-1s)
+* *Estudiantes de la FCFM participan en workshop con U. de Harvard.* Facultad de Ciencias Fisicas y Matematicas, Universidad de Chile (Jan 2014).[url](http://ingenieria.uchile.cl/noticias/98323/estudiantes-de-la-fcfm-participan-en-workshop-con-u-de-harvard).
+* *A Toolkit in 0s and 1s.* Harvard Magazine (Nov-Dec 2013). [url](http://harvardmagazine.com/2013/11/a-toolkit-in-0s-and-1s).
