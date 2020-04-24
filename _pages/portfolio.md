@@ -12,9 +12,9 @@ Visualizations
 
 Machine Learning
 * [A Bayesian Treatment of Economic Mobility in the U.S.](http://amcapstone.wordpress.com/)
-* A Spatial Take on U.S. K-12 Education and Mobility
+* [A Spatial Take on U.S. K-12 Education and Mobility](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2014)%20Spatial%20take%20on%20K12%20education.pdf)
 * [Astronomy Classification, Harvard-Chile Exchange 2014](http://bit.ly/1bvWmo6)
-* Sepsis in the ICU: Using Autoregressive Models to Save Lives
+* [Sepsis in the ICU: Using Autoregressive Models to Save Lives](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2013)%20ICU%20sepsis%20poster.pdf)
 * DJ, Please Don’t Stop the Music: Using Parallel SVD to Determine a Good Mix
 * [A Detailed Comparison of Symmetric Sparse Matrix Reordering Heuristics](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2014)%20A%20detailed%20comparison%20of%20symmetric%20sparse%20matrix%20reordering%20heuristics.pdf)
 
