@@ -2,6 +2,7 @@
 layout: post
 title: "The Post Heard 'Round The World"
 date: 2014-12-17
+image:  '/assets/img/geo_visual.png'
 tags: Jekyll
 ---
 

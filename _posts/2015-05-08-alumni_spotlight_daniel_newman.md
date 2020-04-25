@@ -2,6 +2,7 @@
 layout: post
 title: "Alum Engineers Changes at Health Care Startup"
 date: 2015-05-18
+image:  '/assets/img/newman.png'
 tags: Jekyll
 ---
 

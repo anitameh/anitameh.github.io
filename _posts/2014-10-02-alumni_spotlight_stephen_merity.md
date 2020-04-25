@@ -2,6 +2,7 @@
 layout: post
 title: "From Sydney to San Francisco"
 date: 2014-10-02
+image:  '/assets/img/seas_iacs_logo.png'
 tags: Jekyll
 ---
 

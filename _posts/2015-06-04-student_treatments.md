@@ -2,6 +2,7 @@
 layout: post
 title: "How Are Students Treated At Your School?"
 date: 2015-06-04
+image:  '/assets/img/books.png'
 tags: Jekyll
 ---
 

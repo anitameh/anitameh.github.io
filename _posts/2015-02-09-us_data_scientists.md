@@ -2,6 +2,7 @@
 layout: post
 title: "16 Things All Data Scientists Know To Be True"
 date: 2015-02-09
+image:  '/assets/img/mlb.png'
 tags: Jekyll
 ---
 
