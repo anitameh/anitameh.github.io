@@ -24,7 +24,7 @@ Industry Conferences & Speaking
 * !!Con 2015, Co-speaker: [url](http://bangbangcon.com/2015/speakers.html), [video](https://www.youtube.com/watch?v=6a7jJVvaxh0)
 
 
-Industry Conferences & Speaking
+Academic Publications
 * Mehrotra, Anita. "U.S. Education, Mobility and Bayes," *NESS*. *April 2014*.
 * Mehrotra, Anita. "To host or not to host? A comparison study on the long-run impact of the Olympic Games," pp61-92. *MJB*. *September 2012*. [url](http://ckl.282.myftpupload.com/wp-content/uploads/2019/02/Fall2012.pdf)
 * Mehrotra, Anita; Nguyen, A., Mohan, V., Blumenstock, J. "The role of gender in mobile phone use: Quantitative evidence from Rwanda," *Information and Communication Technologies in Development, ACM Proceedings.* March 2012. [url](http://dl.acm.org/citation.cfm?id=2160710)
