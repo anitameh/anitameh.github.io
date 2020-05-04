@@ -9,3 +9,5 @@ tags: Jekyll
 A data science visualization lets you explore seclusion and restraint data at public K-12 schools across the nation.
 
 Read more [here](http://www.buzzfeed.com/anitamehrotra/how-are-students-punished-at-your-school).
+
+* Thumbnail image via https://nerdist.com/article/roald-dahl-netflix-matilda-charlie-bfg-animated-series/.*
