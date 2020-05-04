@@ -10,4 +10,4 @@ Based on a representative sample of experiences, obv.
 
 Read more [here](https://www.buzzfeed.com/anitamehrotra/16-things-all-data-scientists-know-to-be-true).
 
-*Thumbnail image via https://www.vanityfair.com/culture/2012/01/jonah-hill-moneyball-oscars-brad-pitt.*
+*Thumbnail image via [Vanity Fair's Q&A: Jonah Hill on the Hardest Scene He Filmed in Moneyball](https://www.vanityfair.com/culture/2012/01/jonah-hill-moneyball-oscars-brad-pitt) (2012)*

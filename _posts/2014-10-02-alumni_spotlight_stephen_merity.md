@@ -10,4 +10,4 @@ Stephen Merity (S.M. ’14) has moved out West and he’s loving it. Less than a
 
 Read more [here](https://iacs.seas.harvard.edu/news/cse-alumni-spotlight-stephen-merity).
 
-*Thumbnail image via https://iacs.seas.harvard.edu/.*
+*Thumbnail image via [IACS SEAS homepage](https://iacs.seas.harvard.edu/).*

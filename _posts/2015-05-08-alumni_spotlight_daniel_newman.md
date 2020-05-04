@@ -10,4 +10,4 @@ Much has changed for Daniel Newman (S.M. ’14) in the last few years. After two
 
 Read more [here](https://iacs.seas.harvard.edu/news/alum-engineers-changes-healthcare-start).
 
-*Thumbnail image via https://www.kyruus.com/about.*
+*Thumbnail image via [Kyruus' About](https://www.kyruus.com/about) page.*
