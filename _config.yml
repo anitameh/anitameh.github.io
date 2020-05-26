@@ -28,7 +28,7 @@ url: "https://anitameh.github.io" # the base hostname & protocol for your site, 
 author:
  name: Anita Mehrotra
  image: '/assets/img/01.png'
- job: Hi! I'm Anita
+ job: [Hi! I'm Anita](https://www.linkedin.com/in/anitamehrotra/)
  bio: I'm a data scientist and builder who bridges the gap between business and tech. I like innovation and to write. 
 
 # Contact links
