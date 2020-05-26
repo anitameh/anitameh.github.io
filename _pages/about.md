@@ -20,6 +20,8 @@ I'm a hybrid data scientist. A running theme through my career has been using or
 
 Previously, I was a data scientist at [BuzzFeed](https://ghc.anitab.org/community-blog-ghc/virality-at-buzzfeed-anita-mehrotra/) and Accenture's R&D [Tech Labs](https://www.accenture.com/us-en/about/accenture-labs-index), where I built machine learning tools and platforms, and did some data-driven journalism.
 
+**OTHER THINGS**
+
 I hold degrees in mathematics and economics from UC Berkeley (go Bears!) and computational science and business administration from Harvard. 
 
 From 2014 to 2016, I was lucky enough to teach a bunch of awesome girls at the Institute for Collaborative Education through [Girls Who Code](https://girlswhocode.com/).
