@@ -12,7 +12,7 @@ I am part of (what some call) the first class of data scientists who graduated r
 
 I thrive in the intersection of data, engineering, product and business. That involves  wading through ambiguous problem spaces; having deep user-empathy and seeing the beauty in simplicity; and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
 
-I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been writing about bridging the gap between business and data science, like  data science operations and facilitating a culture of innovation. 
+I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been fascinated about bridging the gap between business and data science. 
 
 **PREVIOUSLY**
 
