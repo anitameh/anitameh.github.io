@@ -4,11 +4,19 @@ title: "About"
 permalink: "/about/"
 ---
 
-Anita is a data scientist at BlackRock's AI Labs. Anita previously worked at BuzzFeed and Accenture's R&D Lab, where she focused on machine learning and data-driven journalism.
+## Hi, I'm Anita! 
 
-Anita is most passionate about using computational science and artificial intelligence technologies to solve societal problems, and has a special spot in her heart for Bayesian methods and U.S. K-12 education. Anita's hybrid skillset and full-stack approach to data science have evolved in tandem with the field she loves, something she sometimes writes about.
+I work in tech and have lots of different interests. Right now, I'm a data scientist and early member of the [AI Labs](https://www.ft.com/content/4f5720ce-1552-11e8-9376-4a6390addb44) at [BlackRock](https://www.blackrock.com/us/individual). Previously, I worked at BuzzFeed and Accenture's R&D Tech Labs, where I focused on data-driven journalism and building machine learning tools and platforms.
 
-Originally a California girl, Anita now lives in New York City. If you can't get a hold of her, she's probably tapping it back at SoulCycle or on the hunt for an espresso.
+I am a data scientist who has cut her teeth on the "front lines" of a hyper-evolving field. I thrive in the intersection of data, engineering, product and business. This means wading through ambiguous problem spaces, holding deep user-empathy and seeing the beauty in simplicity, and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
+
+I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been writing about bridging the gap between business and data science, and the impact that has on data science operations or facilitating a culture of innovation. 
+
+**PREVIOUSLY**
+
+I'm a hybrid data scientist. A running theme through my career has been using or building environments for data science and machine learning to revolutionize previously untapped areas, especially focused on [societal problems](https://www.wired.com/story/inside-vhacks-first-ever-vatican-hackathon/). I hold degrees in mathematics and economics from UC Berkeley (go bears!) and computational science and business administration from Harvard. 
+
+Originally a California girl, I now [ride](https://www.soul-cycle.com/) and live in New York City. If you can't get a hold of me, I'm probably on the hunt for an espresso or some sunshine.
 
 ***
 
