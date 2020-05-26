@@ -6,11 +6,13 @@ permalink: "/about/"
 
 ## Hi, I'm Anita! 
 
-I work in tech and have lots of different interests. Right now, I'm a data scientist and early member of the [AI Labs](https://www.ft.com/content/4f5720ce-1552-11e8-9376-4a6390addb44) at [BlackRock](https://www.blackrock.com/us/individual). Previously, I worked at BuzzFeed and Accenture's R&D Tech Labs, where I focused on data-driven journalism and building machine learning tools and platforms.
+I work in tech and have lots of different interests. Right now, I'm a data scientist and early member of the [AI Labs](https://www.ft.com/content/4f5720ce-1552-11e8-9376-4a6390addb44) at [BlackRock](https://www.blackrock.com/us/individual). Previously, I was a data scientist at [BuzzFeed](https://ghc.anitab.org/community-blog-ghc/virality-at-buzzfeed-anita-mehrotra/) and Accenture's R&D [Tech Labs](https://www.accenture.com/us-en/about/accenture-labs-index), where I built machine learning tools and platforms, and did some data-driven journalism.
 
-I am a data scientist who has cut her teeth on the "front lines" of a hyper-evolving field. I thrive in the intersection of data, engineering, product and business. This means wading through ambiguous problem spaces, holding deep user-empathy and seeing the beauty in simplicity, and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
+I am part of (what some call) the first class of data scientists who graduated right around the time [Hal Varian was predicting statistics would be sexy](https://flowingdata.com/2009/02/25/googles-chief-economist-hal-varian-on-statistics-and-data/). All this means is that I've "grown up" on the front-lines as my field has rapidly evolved. 
 
-I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been writing about bridging the gap between business and data science, and the impact that has on data science operations or facilitating a culture of innovation. 
+I thrive in the intersection of data, engineering, product and business. That involves  wading through ambiguous problem spaces; having deep user-empathy and seeing the beauty in simplicity; and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
+
+I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been writing about bridging the gap between business and data science, like  data science operations and facilitating a culture of innovation. 
 
 **PREVIOUSLY**
 
