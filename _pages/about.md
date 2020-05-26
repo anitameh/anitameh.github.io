@@ -22,7 +22,7 @@ Previously, I was a data scientist at [BuzzFeed](https://ghc.anitab.org/communit
 
 I hold degrees in mathematics and economics from UC Berkeley (go Bears!) and computational science and business administration from Harvard. 
 
-I was lucky enough to teach a bunch of awesome girls at the Institute for Collaborative Education through Girls Who Code.
+From 2014 to 2016, I was lucky enough to teach a bunch of awesome girls at the Institute for Collaborative Education through [Girls Who Code](https://girlswhocode.com/).
 
 Originally a California girl, I now [ride](https://www.soul-cycle.com/) and live in New York City. If you can't get a hold of me, I'm probably on the hunt for an espresso or some sunshine.
 
