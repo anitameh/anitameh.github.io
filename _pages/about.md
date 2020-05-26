@@ -27,21 +27,3 @@ I hold degrees in mathematics and economics from UC Berkeley (go Bears!) and com
 From 2014 to 2016, I was lucky enough to teach a bunch of awesome girls at the Institute for Collaborative Education through [Girls Who Code](https://girlswhocode.com/).
 
 Originally a California girl, I now [ride](https://www.soul-cycle.com/) and live in New York City. If you can't get a hold of me, I'm probably on the hunt for an espresso or some sunshine.
-
-***
-
-*In the News:*
-
-> "Girls Who Code 2014 Annual Report (2015)." [url](https://girlswhocode.com/2014report/).
->
-> "The Life of a Data Scientist: CSE Alum Anita Mehrotra." Harvard IACS News (Feb 2015). [url](https://iacs.seas.harvard.edu/news/life-data-scientist-cse-alum-anita-mehrotra).
->
-> "5 Lessons from BuzzFeed and Uber on Building Closed-Loop Growth Systems." Percolate (Jan 2015). [url](https://blog.percolate.com/2015/01/5-lessons-buzzfeed-uber-building-closed-loop-growth-systems/).
->
-> "Engineering Meets Art." Harvard SEAS News (May 2014). [url](http://www.seas.harvard.edu/news/2014/05/engineering-meets-art).
->
-> "Estudiantes de la FCFM participan en workshop con U. de Harvard." Facultad de Ciencias Fisicas y Matematicas, Universidad de Chile (Jan 2014). [url](http://ingenieria.uchile.cl/noticias/98323/estudiantes-de-la-fcfm-participan-en-workshop-con-u-de-harvard).
-
-> "A Toolkit in 0s and 1s." Harvard Magazine (Nov-Dec 2013). [url](http://harvardmagazine.com/2013/11/a-toolkit-in-0s-and-1s).
-
-***
