@@ -4,11 +4,11 @@ title: "About"
 permalink: "/about/"
 ---
 
-## Hi, I'm Anita! 
+## **Hi, I'm Anita!** 
 
 I work in tech and have lots of different interests. Right now, I'm a data scientist and early member of the [AI Labs](https://www.ft.com/content/4f5720ce-1552-11e8-9376-4a6390addb44) at [BlackRock](https://www.blackrock.com/us/individual). 
 
-I am part of (what some call) the first class of data scientists who graduated right around the time [Hal Varian was predicting statistics would be sexy](https://flowingdata.com/2009/02/25/googles-chief-economist-hal-varian-on-statistics-and-data/). All this means is that I've "grown up" on the front-lines as my field has rapidly evolved. 
+I am part of (what some call) the first class of data scientists. I graduated right when [Hal Varian was predicting statistics would be sexy](https://flowingdata.com/2009/02/25/googles-chief-economist-hal-varian-on-statistics-and-data/), and have "grown up" on the front-lines as my field has rapidly evolved. 
 
 I thrive in the intersection of data, engineering, product and business. That involves  wading through ambiguous problem spaces; having deep user-empathy and seeing the beauty in simplicity; and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
 
