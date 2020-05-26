@@ -10,7 +10,7 @@ I work in tech and have lots of different interests. Right now, I'm a senior dat
 
 I am part of (what some call) the first class of data scientists. I graduated right when [Hal Varian was predicting statistics would be sexy](https://flowingdata.com/2009/02/25/googles-chief-economist-hal-varian-on-statistics-and-data/), and have "grown up" on the front-lines as my field has rapidly evolved. 
 
-I thrive in the intersection of data, engineering, product and business. That involves  wading through ambiguous problem spaces; having deep user-empathy and seeing the beauty in simplicity; and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
+As a result, I work in the **intersection of data, engineering, product and business**. That means  wading through ambiguous problem spaces; having deep user-empathy and an eye to simplicity; and being able to combine components from vastly different fields  to invent new ideas. Bayesian methods and U.S. K-12 education have a special spot in my heart. 
 
 I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been fascinated about bridging the gap between business and data science. 
 
