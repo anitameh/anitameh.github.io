@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: "/portfolio/"
 ---
 
-**PREVIOUS WORK**
+**SAMPLE WORK**
 * [International Spread of a BuzzFeed Post](https://github.com/anitameh/BFInternationalPosts)
 * [Treatment of Public K-12 Students](https://github.com/anitameh/rest-secl-k12education)
 * [K-12 Education and Mobility](https://github.com/anitameh/cs171-finalproject-mehrotra-anita)
@@ -15,6 +15,9 @@ permalink: "/portfolio/"
 * [Sepsis in the ICU: Using Autoregressive Models to Save Lives](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2013)%20ICU%20sepsis%20poster.pdf)
 * [DJ, Please Don’t Stop the Music: Using Parallel SVD to Determine a Good Mix](https://cs205svdmusic.wordpress.com/)
 * [A Detailed Comparison of Symmetric Sparse Matrix Reordering Heuristics](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2014)%20A%20detailed%20comparison%20of%20symmetric%20sparse%20matrix%20reordering%20heuristics.pdf)
+
+
+***
 
 **SPEAKING & PUBLICATIONS**
 * Strata + HadoopWorld 2015
@@ -27,7 +30,7 @@ permalink: "/portfolio/"
 
 ***
 
-*In the News:*
+*IN THE NEWS*
 
 > "Girls Who Code 2014 Annual Report (2015)." [url](https://girlswhocode.com/2014report/).
 >
