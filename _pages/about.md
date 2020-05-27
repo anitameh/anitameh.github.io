@@ -16,9 +16,9 @@ I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I'v
 
 **PREVIOUSLY**
 
-I'm a hybrid data scientist. A running theme through my career has been using or building environments for machine learning solutions to revolutionize previously untapped areas, especially focused on [societal problems](https://www.wired.com/story/inside-vhacks-first-ever-vatican-hackathon/). Bayesian methods and education have special spots in my heart. 
+I'm a hybrid data scientist. I've built environments for, or used machine learning solutions to, evolve previously untapped areas, with a focus on [societal problems](https://www.wired.com/story/inside-vhacks-first-ever-vatican-hackathon/). Bayesian methods and education have special spots in my heart. 
 
-Previously, I was a data scientist at [BuzzFeed](https://ghc.anitab.org/community-blog-ghc/virality-at-buzzfeed-anita-mehrotra/) and Accenture's R&D [Tech Labs](https://www.accenture.com/us-en/about/accenture-labs-index), where I built machine learning tools and platforms, and did some data-driven journalism.
+Previously, I was a senior data scientist at [BuzzFeed](https://ghc.anitab.org/community-blog-ghc/virality-at-buzzfeed-anita-mehrotra/) and a data scientist in Accenture's R&D [Tech Labs](https://www.accenture.com/us-en/about/accenture-labs-index), where I built machine learning tools and platforms, and did some data-driven journalism.
 
 **OTHER THINGS**
 
