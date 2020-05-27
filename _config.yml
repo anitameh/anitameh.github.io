@@ -34,11 +34,11 @@ author:
 # Contact links
 contact:
  - name: Twitter
- - link: https://twitter.com/anitamehr0tra
+   link: https://twitter.com/anitamehr0tra
  - name: Github
- - link: https://github.com/anitameh
+   link: https://github.com/anitameh
  - name: LinkedIn
- - link: https://www.linkedin.com/in/anitamehrotra/
+   link: https://www.linkedin.com/in/anitamehrotra/
 
 # Build settings
 remote_theme: artemsheludko/derrick
