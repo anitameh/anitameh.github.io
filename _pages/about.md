@@ -12,7 +12,7 @@ I am part of (what some call) the first class of data scientists. I graduated ri
 
 This means I work in the intersection of data, engineering, product and business. That includes wading through ambiguous problem spaces; having deep user-empathy and an eye for simplicity; and being able to combine components from totally different fields in order to invent new ideas. 
 
-I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been fascinated about bridging the gap between business and data science. 
+I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been fascinated about bridging the gap between data science and business, and disruptive innovation. 
 
 **PREVIOUSLY**
 
