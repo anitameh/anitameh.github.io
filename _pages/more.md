@@ -16,7 +16,7 @@ permalink: "/portfolio/"
 * [DJ, Please Don’t Stop the Music: Using Parallel SVD to Determine a Good Mix](https://cs205svdmusic.wordpress.com/)
 * [A Detailed Comparison of Symmetric Sparse Matrix Reordering Heuristics](https://github.com/anitameh/anitameh.github.io/blob/master/assets/pdfs/(2014)%20A%20detailed%20comparison%20of%20symmetric%20sparse%20matrix%20reordering%20heuristics.pdf)
 
-***
+<!-- ***
 
 *SPEAKING & PUBLICATIONS*
 * Strata + HadoopWorld 2015
@@ -24,7 +24,7 @@ permalink: "/portfolio/"
 * !!Con 2015, Co-speaker: [url](http://bangbangcon.com/2015/speakers.html), [video](https://www.youtube.com/watch?v=6a7jJVvaxh0)
 * Mehrotra, Anita. "U.S. Education, Mobility and Bayes," *NESS*. *April 2014*.
 * Mehrotra, Anita. "To host or not to host? A comparison study on the long-run impact of the Olympic Games," pp61-92. *MJB*. *September 2012*. [url](http://ckl.282.myftpupload.com/wp-content/uploads/2019/02/Fall2012.pdf)
-* Mehrotra, Anita; Nguyen, A., Mohan, V., Blumenstock, J. "The role of gender in mobile phone use: Quantitative evidence from Rwanda," *Information and Communication Technologies in Development, ACM Proceedings.* March 2012. [url](http://dl.acm.org/citation.cfm?id=2160710)
+* Mehrotra, Anita; Nguyen, A., Mohan, V., Blumenstock, J. "The role of gender in mobile phone use: Quantitative evidence from Rwanda," *Information and Communication Technologies in Development, ACM Proceedings.* March 2012. [url](http://dl.acm.org/citation.cfm?id=2160710) -->
 
 ***
 
@@ -39,7 +39,7 @@ permalink: "/portfolio/"
 > "Engineering Meets Art." Harvard SEAS News (May 2014). [url](http://www.seas.harvard.edu/news/2014/05/engineering-meets-art).
 >
 > "Estudiantes de la FCFM participan en workshop con U. de Harvard." Facultad de Ciencias Fisicas y Matematicas, Universidad de Chile (Jan 2014). [url](http://ingenieria.uchile.cl/noticias/98323/estudiantes-de-la-fcfm-participan-en-workshop-con-u-de-harvard).
-
+>
 > "A Toolkit in 0s and 1s." Harvard Magazine (Nov-Dec 2013). [url](http://harvardmagazine.com/2013/11/a-toolkit-in-0s-and-1s).
 
 ***

@@ -12,7 +12,7 @@ I am part of (what some call) the first class of data scientists. I graduated ri
 
 This means I work in the intersection of data, engineering, product and business. That includes wading through ambiguous problem spaces; having deep user-empathy and an eye for simplicity; and being able to combine components from totally different fields in order to invent new ideas. 
 
-I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been fascinated about bridging the gap between data science and business, and disruptive innovation. 
+I find true joy in reading and [writing](https://anitamehrotra.me/). Lately, I've been fascinated by how we can better bridge the gap between data science and disruptive innovation. 
 
 **PREVIOUSLY**
 
@@ -22,8 +22,6 @@ Previously, I was a senior data scientist at [BuzzFeed](https://ghc.anitab.org/c
 
 **OTHER THINGS**
 
-I hold degrees in mathematics and economics from UC Berkeley (go Bears!) and computational science and business administration from Harvard. 
-
-From 2014 to 2016, I was lucky enough to teach a bunch of awesome girls at the Institute for Collaborative Education through [Girls Who Code](https://girlswhocode.com/).
+In the past, I have been lucky enough to teach a bunch of awesome girls at the Institute for Collaborative Education through [Girls Who Code](https://girlswhocode.com/).
 
 Originally a California girl, I now [ride](https://www.soul-cycle.com/) and live in New York City. If you can't get a hold of me, I'm probably on the hunt for an espresso or some sunshine.
