@@ -2,7 +2,7 @@
 layout: post
 title: "Data Science Career Ladders"
 date: 2020-11-30
-image:  '/assets/img/books.jpg'
+image:  '/assets/img/edinburgh2.jpg'
 tags: Jekyll
 ---
 
