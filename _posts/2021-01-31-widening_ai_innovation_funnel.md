@@ -6,6 +6,6 @@ image:  '/assets/img/unsplash_pic.jpeg'
 tags: Jekyll
 ---
 
-A set of open-source career ladders for data scientists and orgs, alike.
+Facilitating innovation in AI within an institution is hard. Here's one way how. 
 
 Read more [here](https://towardsdatascience.com/all-things-tend-towards-chaos-a-model-for-widening-the-ai-innovation-funnel-aa5690b086c).
