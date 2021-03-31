@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A mModel for Widening the AI Innovation Funnel"
+title: "A Model for Widening the AI Innovation Funnel"
 date: 2021-01-31
-image:  '/assets/img/edinburgh2.png'
+image:  '/assets/img/unsplash_pic.jpeg'
 tags: Jekyll
 ---
 
