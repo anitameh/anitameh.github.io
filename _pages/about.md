@@ -8,9 +8,9 @@ permalink: "/about/"
 
 I work in tech and have lots of different interests. Currently, I'm the product manager for the suite of Aladdin developer and data science tools at [BlackRock](https://www.blackrock.com/aladdin/products/aladdin-studio). 
 
-I am part of what some call the "first class of data scientists," and graduated from Cal (go bears!) right when [Hal Varian was predicting statistics would be sexy](https://flowingdata.com/2009/02/25/googles-chief-economist-hal-varian-on-statistics-and-data/). Since then, I've grown up on the front-lines as my field rapidly evolved. 
+I am part of what some call the "first class of data scientists," and graduated from Cal (go bears!) right when [Hal Varian was predicting statistics would be sexy](https://flowingdata.com/2009/02/25/googles-chief-economist-hal-varian-on-statistics-and-data/). 
 
-I've also failed a lot and learned a lot along the way. I get most jazzed when I am combining different components of totally different fields, in order to invent new ideas at the intersection of machine learning and product. That's manifested by leading my team through ambiguous problem spaces, and being a good listener and question-asker.
+Since then, I've grown up on the front-lines as my field rapidly evolved. I've also failed a lot, but that's meant I've also gotten to learn a ton, like how to combine different components of totally different fields, in order to invent new ideas at the intersection of machine learning and product. I get most jazzed when I can help my team through ambiguous problem spaces, and while deeply investigating user's needs and interesting tech.
 
 This site is also a place where I aggregate my [writing](https://anitamehrotra.me/), something I love doing and am investing more time towards. Lately, I've been fascinated by how we can better bridge the gap between data science and disruptive innovation. 
 
